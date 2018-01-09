@@ -1,4 +1,4 @@
-# This projet is part of the:
+# This Project is Part of the:
 # Machine Learning Engineer Nanodegree
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
